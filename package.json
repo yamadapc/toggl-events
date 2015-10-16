@@ -1,0 +1,30 @@
+{
+  "name": "toggl-events",
+  "version": "1.0.0",
+  "description": "Higher-level wrapper on top of the Toggl WebSockets API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yamadapc/toggl-events.git"
+  },
+  "keywords": [
+    "toggl",
+    "websockets",
+    "real-time",
+    "ws",
+    "streams",
+    "readable"
+  ],
+  "author": "Pedro Tacla Yamada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamadapc/toggl-events/issues"
+  },
+  "homepage": "https://github.com/yamadapc/toggl-events#readme",
+  "dependencies": {
+    "ws": "^0.8.0"
+  }
+}
