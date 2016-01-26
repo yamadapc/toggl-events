@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/yamadapc/toggl-events#readme",
   "dependencies": {
-    "ws": "^0.8.0"
+    "ws": "^1.0.1"
   }
 }
